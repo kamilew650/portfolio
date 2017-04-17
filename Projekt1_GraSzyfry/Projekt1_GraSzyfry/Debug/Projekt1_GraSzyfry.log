@@ -1,0 +1,4 @@
+﻿  Gra.cpp
+e:\kamilstudia\ppk-materialy i git\ppk\projekt 1\projekt1_graszyfry\projekt1_graszyfry\gra.cpp(203): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Projekt1_GraSzyfry.vcxproj -> E:\KamilStudia\PPK-materialy i git\PPK\projekt 1\Projekt1_GraSzyfry\Debug\Projekt1_GraSzyfry.exe
+  Projekt1_GraSzyfry.vcxproj -> E:\KamilStudia\PPK-materialy i git\PPK\projekt 1\Projekt1_GraSzyfry\Debug\Projekt1_GraSzyfry.pdb (Full PDB)
